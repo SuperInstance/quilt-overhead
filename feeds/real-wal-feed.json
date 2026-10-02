@@ -1,0 +1,11545 @@
+{
+ "cells": [
+  {
+   "id": "table",
+   "name": "the table",
+   "agent": "backward-holdem engine",
+   "x": 0,
+   "y": 0,
+   "doc": "seed 20261002 hands 120 wal_ref 0809402a13c37d70",
+   "deltas": [
+    {
+     "t": 0,
+     "kind": "note",
+     "size": 157
+    },
+    {
+     "t": 1,
+     "kind": "note",
+     "size": 157
+    },
+    {
+     "t": 2,
+     "kind": "note",
+     "size": 156
+    },
+    {
+     "t": 3,
+     "kind": "note",
+     "size": 156
+    },
+    {
+     "t": 4,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 5,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 6,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 7,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 8,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 9,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 10,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 11,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 12,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 13,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 14,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 15,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 16,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 17,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 18,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 19,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 20,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 21,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 22,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 23,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 24,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 25,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 26,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 27,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 28,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 29,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 30,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 31,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 32,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 33,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 34,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 35,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 36,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 37,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 38,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 39,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 40,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 41,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 42,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 43,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 44,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 45,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 46,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 47,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 48,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 49,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 50,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 51,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 52,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 53,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 54,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 55,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 56,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 57,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 58,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 59,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 60,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 61,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 62,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 63,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 64,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 65,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 66,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 67,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 68,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 69,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 70,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 71,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 72,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 73,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 74,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 75,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 76,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 77,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 78,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 79,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 80,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 81,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 82,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 83,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 84,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 85,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 86,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 87,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 88,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 89,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 90,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 91,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 92,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 93,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 94,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 95,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 96,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 97,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 98,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 99,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 100,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 101,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 102,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 103,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 104,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 105,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 106,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 107,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 108,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 109,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 110,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 111,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 112,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 113,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 114,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 115,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 116,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 117,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 118,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 119,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 120,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 121,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 122,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 123,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 124,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 125,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 126,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 127,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 128,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 129,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 130,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 131,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 132,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 133,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 134,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 135,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 136,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 137,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 138,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 139,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 140,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 141,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 142,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 143,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 144,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 145,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 146,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 147,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 148,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 149,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 150,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 151,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 152,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 153,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 154,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 155,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 156,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 157,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 158,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 159,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 160,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 161,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 162,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 163,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 164,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 165,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 166,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 167,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 168,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 169,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 170,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 171,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 172,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 173,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 174,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 175,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 176,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 177,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 178,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 179,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 180,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 181,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 182,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 183,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 184,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 185,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 186,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 187,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 188,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 189,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 190,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 191,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 192,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 193,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 194,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 195,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 196,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 197,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 198,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 199,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 200,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 201,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 202,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 203,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 204,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 205,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 206,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 207,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 208,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 209,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 210,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 211,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 212,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 213,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 214,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 215,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 216,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 217,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 218,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 219,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 220,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 221,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 222,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 223,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 224,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 225,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 226,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 227,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 228,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 229,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 230,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 231,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 232,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 233,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 234,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 235,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 236,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 237,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 238,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 239,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 240,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 241,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 242,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 243,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 244,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 245,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 246,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 247,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 248,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 249,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 250,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 251,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 252,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 253,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 254,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 255,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 256,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 257,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 258,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 259,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 260,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 261,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 262,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 263,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 264,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 265,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 266,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 267,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 268,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 269,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 270,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 271,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 272,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 273,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 274,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 275,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 276,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 277,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 278,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 279,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 280,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 281,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 282,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 283,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 284,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 285,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 286,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 287,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 288,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 289,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 290,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 291,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 292,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 293,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 294,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 295,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 296,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 297,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 298,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 299,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 300,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 301,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 302,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 303,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 304,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 305,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 306,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 307,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 308,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 309,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 310,
+     "kind": "note",
+     "size": 34
+    },
+    {
+     "t": 311,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 312,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 313,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 314,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 315,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 316,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 317,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 318,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 319,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 320,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 321,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 322,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 323,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 324,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 325,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 326,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 327,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 328,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 329,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 330,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 331,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 332,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 333,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 334,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 335,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 336,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 337,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 338,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 339,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 340,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 341,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 342,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 343,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 344,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 345,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 346,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 347,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 348,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 349,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 350,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 351,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 352,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 353,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 354,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 355,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 356,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 357,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 358,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 359,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 360,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 361,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 362,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 363,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 364,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 365,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 366,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 367,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 368,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 369,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 370,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 371,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 372,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 373,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 374,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 375,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 376,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 377,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 378,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 379,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 380,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 381,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 382,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 383,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 384,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 385,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 386,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 387,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 388,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 389,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 390,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 391,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 392,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 393,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 394,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 395,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 396,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 397,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 398,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 399,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 400,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 401,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 402,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 403,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 404,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 405,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 406,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 407,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 408,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 409,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 410,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 411,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 412,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 413,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 414,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 415,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 416,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 417,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 418,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 419,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 420,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 421,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 422,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 423,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 424,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 425,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 426,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 427,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 428,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 429,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 430,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 431,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 432,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 433,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 434,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 435,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 436,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 437,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 438,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 439,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 440,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 441,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 442,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 443,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 444,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 445,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 446,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 447,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 448,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 449,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 450,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 451,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 452,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 453,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 454,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 455,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 456,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 457,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 458,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 459,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 460,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 461,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 462,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 463,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 464,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 465,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 466,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 467,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 468,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 469,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 470,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 471,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 472,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 473,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 474,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 475,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 476,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 477,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 478,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 479,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 480,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 481,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 482,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 483,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 484,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 485,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 486,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 487,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 488,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 489,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 490,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 491,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 492,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 493,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 494,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 495,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 496,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 497,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 498,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 499,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 500,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 501,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 502,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 503,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 504,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 505,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 506,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 507,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 508,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 509,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 510,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 511,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 512,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 513,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 514,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 515,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 516,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 517,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 518,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 519,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 520,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 521,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 522,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 523,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 524,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 525,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 526,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 527,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 528,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 529,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 530,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 531,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 532,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 533,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 534,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 535,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 536,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 537,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 538,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 539,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 540,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 541,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 542,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 543,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 544,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 545,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 546,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 547,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 548,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 549,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 550,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 551,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 552,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 553,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 554,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 555,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 556,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 557,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 558,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 559,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 560,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 561,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 562,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 563,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 564,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 565,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 566,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 567,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 568,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 569,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 570,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 571,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 572,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 573,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 574,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 575,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 576,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 577,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 578,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 579,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 580,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 581,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 582,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 583,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 584,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 585,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 586,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 587,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 588,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 589,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 590,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 591,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 592,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 593,
+     "kind": "receipt",
+     "size": 33
+    },
+    {
+     "t": 594,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 595,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 596,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 597,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 598,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 599,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 600,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 601,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 602,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 603,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 604,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 605,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 606,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 607,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 608,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 609,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 610,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 611,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 612,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 613,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 614,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 615,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 616,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 617,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 618,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 619,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 620,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 621,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 622,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 623,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 624,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 625,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 626,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 627,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 628,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 629,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 630,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 631,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 632,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 633,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 634,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 635,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 636,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 637,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 638,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 639,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 640,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 641,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 642,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 643,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 644,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 645,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 646,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 647,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 648,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 649,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 650,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 651,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 652,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 653,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 654,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 655,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 656,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 657,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 658,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 659,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 660,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 661,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 662,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 663,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 664,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 665,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 666,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 667,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 668,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 669,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 670,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 671,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 672,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 673,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 674,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 675,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 676,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 677,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 678,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 679,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 680,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 681,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 682,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 683,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 684,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 685,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 686,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 687,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 688,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 689,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 690,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 691,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 692,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 693,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 694,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 695,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 696,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 697,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 698,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 699,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 700,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 701,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 702,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 703,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 704,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 705,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 706,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 707,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 708,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 709,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 710,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 711,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 712,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 713,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 714,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 715,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 716,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 717,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 718,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 719,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 720,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 721,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 722,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 723,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 724,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 725,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 726,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 727,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 728,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 729,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 730,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 731,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 732,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 733,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 734,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 735,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 736,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 737,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 738,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 739,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 740,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 741,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 742,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 743,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 744,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 745,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 746,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 747,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 748,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 749,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 750,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 751,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 752,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 753,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 754,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 755,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 756,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 757,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 758,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 759,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 760,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 761,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 762,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 763,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 764,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 765,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 766,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 767,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 768,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 769,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 770,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 771,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 772,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 773,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 774,
+     "kind": "receipt",
+     "size": 33
+    },
+    {
+     "t": 775,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 776,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 777,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 778,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 779,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 780,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 781,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 782,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 783,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 784,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 785,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 786,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 787,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 788,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 789,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 790,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 791,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 792,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 793,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 794,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 795,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 796,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 797,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 798,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 799,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 800,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 801,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 802,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 803,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 804,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 805,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 806,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 807,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 808,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 809,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 810,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 811,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 812,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 813,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 814,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 815,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 816,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 817,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 818,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 819,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 820,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 821,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 822,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 823,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 824,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 825,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 826,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 827,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 828,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 829,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 830,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 831,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 832,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 833,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 834,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 835,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 836,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 837,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 838,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 839,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 840,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 841,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 842,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 843,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 844,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 845,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 846,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 847,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 848,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 849,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 850,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 851,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 852,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 853,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 854,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 855,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 856,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 857,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 858,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 859,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 860,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 861,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 862,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 863,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 864,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 865,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 866,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 867,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 868,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 869,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 870,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 871,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 872,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 873,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 874,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 875,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 876,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 877,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 878,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 879,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 880,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 881,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 882,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 883,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 884,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 885,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 886,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 887,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 888,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 889,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 890,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 891,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 892,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 893,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 894,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 895,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 896,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 897,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 898,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 899,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 900,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 901,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 902,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 903,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 904,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 905,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 906,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 907,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 908,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 909,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 910,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 911,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 912,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 913,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 914,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 915,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 916,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 917,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 918,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 919,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 920,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 921,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 922,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 923,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 924,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 925,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 926,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 927,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 928,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 929,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 930,
+     "kind": "receipt",
+     "size": 33
+    },
+    {
+     "t": 931,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 932,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 933,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 934,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 935,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 936,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 937,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 938,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 939,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 940,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 941,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 942,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 943,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 944,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 945,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 946,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 947,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 948,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 949,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 950,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 951,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 952,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 953,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 954,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 955,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 956,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 957,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 958,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 959,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 960,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 961,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 962,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 963,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 964,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 965,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 966,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 967,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 968,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 969,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 970,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 971,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 972,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 973,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 974,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 975,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 976,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 977,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 978,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 979,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 980,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 981,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 982,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 983,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 984,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 985,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 986,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 987,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 988,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 989,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 990,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 991,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 992,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 993,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 994,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 995,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 996,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 997,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 998,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 999,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1000,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1001,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1002,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1003,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1004,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1005,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1006,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1007,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1008,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 1009,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1010,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1011,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1012,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 1013,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1014,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1015,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1016,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1017,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1018,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1019,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1020,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1021,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1022,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1023,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1024,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1025,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1026,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1027,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1028,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1029,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1030,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1031,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1032,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1033,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1034,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1035,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1036,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1037,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1038,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1039,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1040,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1041,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1042,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1043,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1044,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1045,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1046,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1047,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1048,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1049,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1050,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1051,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1052,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1053,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1054,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1055,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1056,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1057,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1058,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1059,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1060,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1061,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 1062,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1063,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1064,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1065,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1066,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1067,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1068,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1069,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1070,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1071,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1072,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1073,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1074,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1075,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1076,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1077,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1078,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1079,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1080,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1081,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1082,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1083,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1084,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1085,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1086,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1087,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1088,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1089,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1090,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1091,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 1092,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1093,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1094,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1095,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1096,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1097,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1098,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1099,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1100,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1101,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1102,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1103,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1104,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1105,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1106,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1107,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1108,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1109,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1110,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1111,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1112,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1113,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1114,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1115,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1116,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1117,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1118,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1119,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1120,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1121,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1122,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1123,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1124,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1125,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1126,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1127,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1128,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1129,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1130,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1131,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1132,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1133,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1134,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1135,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1136,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1137,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1138,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1139,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1140,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1141,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1142,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1143,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1144,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1145,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1146,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1147,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1148,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1149,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1150,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1151,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1152,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1153,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1154,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1155,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1156,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1157,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1158,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1159,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1160,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1161,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1162,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1163,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1164,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1165,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1166,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1167,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1168,
+     "kind": "receipt",
+     "size": 32
+    },
+    {
+     "t": 1169,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1170,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1171,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 1172,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1173,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1174,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1175,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1176,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1177,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1178,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1179,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1180,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1181,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1182,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1183,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1184,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1185,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1186,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1187,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1188,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1189,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1190,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1191,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1192,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 1193,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1194,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1195,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1196,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1197,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1198,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1199,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1200,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1201,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1202,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1203,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1204,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1205,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1206,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1207,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1208,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1209,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1210,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1211,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1212,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 1213,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1214,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1215,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1216,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1217,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1218,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1219,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1220,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1221,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1222,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1223,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1224,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1225,
+     "kind": "note",
+     "size": 35
+    },
+    {
+     "t": 1226,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1227,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1228,
+     "kind": "note",
+     "size": 37
+    },
+    {
+     "t": 1229,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1230,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1231,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1232,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1233,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1234,
+     "kind": "pin",
+     "size": 38
+    }
+   ]
+  },
+  {
+   "id": "seat0",
+   "name": "seat 0",
+   "agent": "bot script",
+   "x": 0.85,
+   "y": 0.5,
+   "doc": "scripted player",
+   "deltas": [
+    {
+     "t": 0,
+     "kind": "note",
+     "size": 157
+    },
+    {
+     "t": 5,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 12,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 19,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 24,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 30,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 32,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 37,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 42,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 48,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 55,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 60,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 65,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 67,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 72,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 77,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 81,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 84,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 89,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 94,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 96,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 100,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 105,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 109,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 113,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 116,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 120,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 124,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 128,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 132,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 135,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 137,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 141,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 146,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 153,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 160,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 167,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 173,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 175,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 179,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 184,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 190,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 197,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 202,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 207,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 209,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 214,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 219,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 223,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 226,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 231,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 236,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 239,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 244,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 248,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 252,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 255,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 258,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 261,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 264,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 267,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 270,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 275,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 282,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 289,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 294,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 299,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 302,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 306,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 311,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 317,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 324,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 329,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 334,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 336,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 340,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 345,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 350,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 354,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 357,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 361,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 364,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 367,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 370,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 373,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 375,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 379,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 384,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 388,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 392,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 395,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 399,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 402,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 406,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 409,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 414,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 421,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 425,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 431,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 436,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 441,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 443,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 447,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 452,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 458,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 462,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 467,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 471,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 475,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 477,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 481,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 486,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 491,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 495,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 498,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 503,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 508,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 512,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 514,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 518,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 523,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 527,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 531,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 534,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 537,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 540,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 544,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 547,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 549,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 553,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 558,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 565,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 572,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 578,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 584,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 588,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 590,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 594,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 599,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 605,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 609,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 613,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 617,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 621,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 623,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 627,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 632,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 637,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 641,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 644,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 648,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 652,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 655,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 659,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 661,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 665,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 670,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 674,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 678,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 681,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 685,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 688,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 691,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 694,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 697,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 699,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 703,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 708,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 715,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 722,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 727,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 732,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 733,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 738,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 744,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 751,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 757,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 761,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 766,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 769,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 771,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 775,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 780,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 785,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 789,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 793,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 797,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 801,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 805,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 808,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 811,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 813,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 817,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 822,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 826,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 830,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 833,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 838,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 842,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 845,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 849,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 852,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 857,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 862,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 869,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 876,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 881,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 886,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 887,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 892,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 898,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 905,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 909,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 914,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 917,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 922,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 925,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 927,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 931,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 936,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 941,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 945,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 949,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 953,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 957,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 961,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 964,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 967,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 969,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 973,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 978,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 982,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 986,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1009,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1032,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1062,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1114,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1139,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1169,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1191,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1211,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1230,
+     "kind": "receipt",
+     "size": 34
+    }
+   ]
+  },
+  {
+   "id": "seat1",
+   "name": "seat 1",
+   "agent": "bot script",
+   "x": 0.7475,
+   "y": 0.7475,
+   "doc": "scripted player",
+   "deltas": [
+    {
+     "t": 1,
+     "kind": "note",
+     "size": 157
+    },
+    {
+     "t": 6,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 9,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 13,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 16,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 21,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 25,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 27,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 31,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 33,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 38,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 43,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 49,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 56,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 61,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 66,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 68,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 73,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 78,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 85,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 90,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 95,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 97,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 101,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 106,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 110,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 114,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 117,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 121,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 125,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 129,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 133,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 136,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 138,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 142,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 147,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 150,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 154,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 157,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 161,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 164,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 168,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 171,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 174,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 176,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 180,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 185,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 191,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 198,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 203,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 208,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 210,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 215,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 220,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 227,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 232,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 237,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 240,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 245,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 249,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 253,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 256,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 259,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 262,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 265,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 268,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 271,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 276,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 279,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 283,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 286,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 291,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 296,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 300,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 303,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 307,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 312,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 318,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 325,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 330,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 335,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 337,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 341,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 346,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 351,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 358,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 362,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 365,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 368,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 371,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 374,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 376,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 380,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 385,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 389,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 393,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 396,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 400,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 403,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 407,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 410,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 415,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 418,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 422,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 426,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 428,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 432,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 434,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 437,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 439,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 442,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 444,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 448,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 453,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 459,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 463,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 468,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 472,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 476,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 478,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 482,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 487,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 492,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 499,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 504,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 509,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 513,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 515,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 519,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 524,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 528,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 532,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 535,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 538,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 541,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 545,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 548,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 550,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 554,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 559,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 562,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 566,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 569,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 573,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 575,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 579,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 581,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 585,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 595,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 600,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 606,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 610,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 614,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 618,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 622,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 624,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 628,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 633,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 638,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 645,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 649,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 666,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 671,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 675,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 679,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 682,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 686,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 689,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 692,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 695,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 698,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 700,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 704,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 709,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 712,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 716,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 719,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 724,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 729,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 734,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 739,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 745,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 752,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 758,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 776,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 781,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 786,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 790,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 794,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 798,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 802,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 806,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 809,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 812,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 814,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 818,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 823,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 827,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 831,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 834,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 839,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 843,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 846,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 850,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 853,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 858,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 863,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 866,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 870,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 873,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 878,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 883,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 888,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 893,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 899,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 906,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 932,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 937,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 942,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 946,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 950,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 954,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 958,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 962,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 965,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 968,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 970,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 974,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 979,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 983,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 987,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 989,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 992,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1010,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1014,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1019,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1025,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1028,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1031,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1033,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1037,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1041,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1044,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1047,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1050,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1052,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1054,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1056,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1058,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1059,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1063,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1067,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1070,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1073,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1076,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1079,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1094,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1099,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1105,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1109,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1113,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1115,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1119,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1123,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1126,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1129,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1133,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1137,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1140,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1144,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1147,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1150,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1153,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1157,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1160,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1163,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1165,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1166,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1170,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1174,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1179,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1182,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1185,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1188,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1190,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1192,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 1196,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1198,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1200,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1203,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1206,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1209,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1212,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 1216,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1219,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1221,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1224,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1227,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1231,
+     "kind": "receipt",
+     "size": 34
+    }
+   ]
+  },
+  {
+   "id": "seat2",
+   "name": "seat 2",
+   "agent": "bot script",
+   "x": 0.5,
+   "y": 0.85,
+   "doc": "scripted player",
+   "deltas": [
+    {
+     "t": 2,
+     "kind": "note",
+     "size": 156
+    },
+    {
+     "t": 7,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 10,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 14,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 17,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 22,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 28,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 34,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 39,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 44,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 46,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 50,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 53,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 58,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 63,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 69,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 74,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 79,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 86,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 91,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 102,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 107,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 111,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 118,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 122,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 126,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 130,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 143,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 148,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 151,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 155,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 158,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 162,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 165,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 169,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 181,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 186,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 188,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 192,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 195,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 200,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 205,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 211,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 216,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 221,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 228,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 233,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 238,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 241,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 246,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 250,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 257,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 263,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 269,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 272,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 277,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 280,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 284,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 287,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 292,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 297,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 301,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 308,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 313,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 315,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 319,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 322,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 327,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 331,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 342,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 347,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 352,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 359,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 366,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 372,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 377,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 381,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 386,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 390,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 397,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 404,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 408,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 411,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 416,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 419,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 423,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 429,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 435,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 440,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 445,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 449,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 454,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 456,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 460,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 465,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 470,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 474,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 479,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 483,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 488,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 493,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 500,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 505,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 510,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 516,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 520,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 525,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 529,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 536,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 542,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 546,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 551,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 555,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 560,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 563,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 567,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 570,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 576,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 582,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 586,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 589,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 591,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 596,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 601,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 603,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 607,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 612,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 616,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 620,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 625,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 629,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 634,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 639,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 646,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 650,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 656,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 660,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 662,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 667,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 672,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 676,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 683,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 690,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 696,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 701,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 705,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 710,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 713,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 717,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 720,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 725,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 730,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 735,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 740,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 742,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 746,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 749,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 753,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 755,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 759,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 762,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 764,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 767,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 770,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 772,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 777,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 782,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 787,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 795,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 803,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 810,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 815,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 819,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 824,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 828,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 835,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 840,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 847,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 851,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 854,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 859,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 864,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 867,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 871,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 874,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 879,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 884,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 889,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 894,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 896,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 900,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 903,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 907,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 910,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 912,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 915,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 918,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 920,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 923,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 926,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 928,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 933,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 938,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 943,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 951,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 959,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 966,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 971,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 975,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 980,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 984,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 990,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 993,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 995,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 997,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 999,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1001,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1003,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1005,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1006,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1011,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1015,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1017,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1020,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1023,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1027,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1030,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1034,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1038,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1042,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1048,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1053,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1057,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1060,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1064,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1068,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1071,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1074,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1077,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1080,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1082,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1084,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1086,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1088,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1090,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1095,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1097,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1100,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1103,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1107,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1111,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1116,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1120,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1124,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1130,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1134,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1138,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1141,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1145,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1148,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1151,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1154,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1158,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1161,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1171,
+     "kind": "receipt",
+     "size": 35
+    },
+    {
+     "t": 1175,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1177,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1180,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1184,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1187,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1193,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1213,
+     "kind": "receipt",
+     "size": 34
+    },
+    {
+     "t": 1232,
+     "kind": "receipt",
+     "size": 34
+    }
+   ]
+  },
+  {
+   "id": "seat3",
+   "name": "seat 3",
+   "agent": "bot script",
+   "x": 0.2525,
+   "y": 0.7475,
+   "doc": "scripted player",
+   "deltas": [
+    {
+     "t": 3,
+     "kind": "note",
+     "size": 156
+    },
+    {
+     "t": 8,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 11,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 18,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 23,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 29,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 35,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 40,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 45,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 47,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 51,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 54,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 59,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 64,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 70,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 75,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 76,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 80,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 83,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 88,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 93,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 98,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 103,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 108,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 112,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 119,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 127,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 134,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 139,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 144,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 149,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 152,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 159,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 166,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 172,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 177,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 182,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 187,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 189,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 193,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 196,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 201,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 206,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 212,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 217,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 218,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 222,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 225,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 230,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 235,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 242,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 247,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 251,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 273,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 278,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 281,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 288,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 293,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 298,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 304,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 309,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 314,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 316,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 320,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 323,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 328,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 333,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 338,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 343,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 348,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 349,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 353,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 356,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 360,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 382,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 387,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 391,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 398,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 412,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 417,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 420,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 424,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 430,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 450,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 455,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 457,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 461,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 466,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 484,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 489,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 490,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 494,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 497,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 502,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 507,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 511,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 521,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 526,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 530,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 556,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 561,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 564,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 571,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 577,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 583,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 587,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 592,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 597,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 602,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 604,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 608,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 630,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 635,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 636,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 640,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 643,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 647,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 651,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 654,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 658,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 663,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 668,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 673,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 677,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 684,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 706,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 711,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 714,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 721,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 726,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 731,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 736,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 741,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 743,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 747,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 750,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 756,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 760,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 765,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 768,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 773,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 778,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 783,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 784,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 788,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 792,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 796,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 800,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 804,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 820,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 825,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 829,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 836,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 841,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 848,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 855,
+     "kind": "note",
+     "size": 48
+    },
+    {
+     "t": 860,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 865,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 868,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 875,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 880,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 885,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 890,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 895,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 897,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 901,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 904,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 908,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 913,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 916,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 921,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 924,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 929,
+     "kind": "note",
+     "size": 50
+    },
+    {
+     "t": 934,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 939,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 940,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 944,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 948,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 952,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 956,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 960,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 976,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 981,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 985,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 991,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 994,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 998,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1000,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1004,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1007,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1012,
+     "kind": "receipt",
+     "size": 37
+    },
+    {
+     "t": 1016,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1018,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1021,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1024,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1035,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1039,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1040,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1043,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1046,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1049,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1065,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1069,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1072,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1078,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1081,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1085,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1089,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1092,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1096,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1098,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1101,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1104,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1108,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1112,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1117,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1121,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1122,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1125,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1128,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1132,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1136,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1142,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1146,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1149,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1155,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1159,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1164,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1167,
+     "kind": "note",
+     "size": 51
+    },
+    {
+     "t": 1172,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1176,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1178,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1181,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1194,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1197,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1199,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1201,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1204,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1207,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1210,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1214,
+     "kind": "receipt",
+     "size": 36
+    },
+    {
+     "t": 1217,
+     "kind": "note",
+     "size": 33
+    },
+    {
+     "t": 1218,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1220,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1223,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1226,
+     "kind": "edit",
+     "size": 39
+    },
+    {
+     "t": 1229,
+     "kind": "edit",
+     "size": 38
+    },
+    {
+     "t": 1233,
+     "kind": "receipt",
+     "size": 36
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "source": "backward-holdem/receipts/wal.jsonl",
+  "dialect": "quilt-overhead/feed.v1",
+  "wal_ref": "0809402a13c37d70",
+  "tag": "REAL RECEIPTS (not simulated)"
+ }
+}
